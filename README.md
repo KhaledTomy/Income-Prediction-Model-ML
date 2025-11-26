@@ -54,9 +54,3 @@ Income classification is strongly influenced by education level, occupation, and
 
 This project demonstrates how machine learning can be applied to classify income levels using demographic data.
 It showcases preprocessing techniques, ML model comparison, and clear evaluation of performance metrics — making it a strong portfolio piece for data & ML roles.
-
-لو تبغى:
-
-أضيف صور للمخرجات
-
-أ

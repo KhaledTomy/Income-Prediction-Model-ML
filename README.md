@@ -26,7 +26,7 @@ Identify the most effective model for income classification
 
 ## 📁 Project Structure
 
-Income_Prediction.ipynb – complete preprocessing, training & evaluation
+Projectml.py – complete preprocessing, training & evaluation
 
 adult.data – training dataset
 
